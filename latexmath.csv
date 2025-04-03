@@ -1,0 +1,54 @@
+Category,Symbol,LaTeX Command,Description,Uppercase Symbol,LaTeX Command (Uppercase)
+Greek Letters,α,\alpha,,Α,\Alpha
+Greek Letters,β,\beta,,Β,\Beta
+Greek Letters,γ,\gamma,,Γ,\Gamma
+Greek Letters,δ,\delta,,Δ,\Delta
+Greek Letters,ε,\epsilon,,Ε,\Epsilon
+Greek Letters,ζ,\zeta,,Ζ,\Zeta
+Greek Letters,η,\eta,,Η,\Eta
+Greek Letters,θ,\theta,,Θ,\Theta
+Greek Letters,ι,\iota,,Ι,\Iota
+Greek Letters,κ,\kappa,,Κ,\Kappa
+Greek Letters,λ,\lambda,,Λ,\Lambda
+Greek Letters,μ,\mu,,Μ,\Mu
+Greek Letters,ν,\nu,,Ν,\Nu
+Greek Letters,ξ,\xi,,Ξ,\Xi
+Greek Letters,ο,\omicron,,Ο,\Omicron
+Greek Letters,π,\pi,,Π,\Pi
+Greek Letters,ρ,\rho,,Ρ,\Rho
+Greek Letters,σ,\sigma,,Σ,\Sigma
+Greek Letters,τ,\tau,,Τ,\Tau
+Greek Letters,υ,\upsilon,,Υ,\Upsilon
+Greek Letters,φ,\phi,,Φ,\Phi
+Greek Letters,χ,\chi,,Χ,\Chi
+Greek Letters,ψ,\psi,,Ψ,\Psi
+Greek Letters,ω,\omega,,Ω,\Omega
+Binary Operators,×,\times,Multiplication,,
+Binary Operators,⊗,\otimes,Tensor Product,,
+Binary Operators,⊕,\oplus,Direct Sum,,
+Binary Operators,∪,\cup,Union,,
+Binary Operators,∩,\cap,Intersection,,
+Binary Operators,∓,\mp,Minus-Plus,,
+Binary Operators,±,\pm,Plus-Minus,,
+Binary Operators,·,\cdot,Centered Dot,,
+Relation Operators,<,<,Less Than,,
+Relation Operators,>,>,Greater Than,,
+Relation Operators,⊂,\subset,Subset,,
+Relation Operators,⊃,\supset,Superset,,
+Relation Operators,⊆,\subseteq,Subset or Equal,,
+Relation Operators,⊇,\supseteq,Superset or Equal,,
+Relation Operators,≠,\neq,Not Equal,,
+Relation Operators,≡,\equiv,Equivalent,,
+Relation Operators,≈,\approx,Approximately Equal,,
+Calculus and Series Operators,∫,\int,Integral,,
+Calculus and Series Operators,∮,\oint,Contour Integral,,
+Calculus and Series Operators,∑,\sum,Summation,,
+Calculus and Series Operators,∏,\prod,Product,,
+Calculus and Series Operators,∇,\nabla,Nabla (Gradient),,
+Calculus and Series Operators,∂,\partial,Partial Derivative,,
+Special Symbols,∞,\infty,Infinity,,
+Special Symbols,∀,\forall,For All,,
+Special Symbols,∃,\exists,Exists,,
+Special Symbols,∈,\in,Element of,,
+Special Symbols,∉,\notin,Not an Element of,,
+Special Symbols,∅,\emptyset,Empty Set,,
